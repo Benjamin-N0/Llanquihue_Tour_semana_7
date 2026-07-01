@@ -53,3 +53,24 @@ git clone https://github.com/Benjamin-N0/llanquihue-tour.git
 ```text
 ui/Main.java
 ```
+
+##Ejemplo de Salida
+----LISTA DE RUTAS DE LLANQUIHUE TOUR----
+
+---------------------
+RUTA NORMAL
+Nombre: Ruta Salmon
+Duración: 3 horas
+Número de Paradas: 3
+
+---------------------
+RUTA TIPO EXCURSION
+Nombre: Excursion Generica
+Duración: 3 horas
+Lugar Histórico: Monte Generico
+
+---------------------
+RUTA TIPO PASEO
+Nombre: Lago Generico
+Duración: 4 horas
+Tipo de Embarcación: Barco
