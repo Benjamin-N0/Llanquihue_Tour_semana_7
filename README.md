@@ -23,16 +23,19 @@ Durante la semana anterior, implementaste una jerarquía de clases para represen
 ## 🧱 Estructura general del proyecto
 ```plaintext
 📁 src/
-├── ui/            # Clase principal con el método main
+├── ui/                            # Clase principal con el método main
     └── Main.java
-├── model/         # Clases de dominio
+
+├── model/                         # Clases de dominio
     └──ServicioTuristico.java
     └── RutaGastronomica.java
     └── PaseoLacustre.java
     └── ExcursionCultural.java
-├── data/          # Clase encargda de creacion de rutas
+
+├── data/                          # Clase encargda de creacion de rutas
     └── GestorRutas.java
-├── service/       # Clase encargada de procesar la informacion
+
+├── service/                       # Clase encargada de procesar la informacion
     └── ServicioDeRutas.java
 ````
 ## Ejecución
