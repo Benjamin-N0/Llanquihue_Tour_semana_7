@@ -54,7 +54,7 @@ git clone https://github.com/Benjamin-N0/llanquihue-tour.git
 ui/Main.java
 ```
 
-##Ejemplo de Salida
+## Ejemplo de Salida
 ```bash
 ----LISTA DE RUTAS DE LLANQUIHUE TOUR----
 
