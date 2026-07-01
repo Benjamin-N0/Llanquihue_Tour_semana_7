@@ -6,6 +6,7 @@ import model.RutaGastronomica;
 import model.ServicioTuristico;
 
 //Esta clase se encarga de mostrar por consola las distintas rutas turísticas registradas
+//y sera utilizada en la clase Main
 
 public class ServicioDeRutas {
     
