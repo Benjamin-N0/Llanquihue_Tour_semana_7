@@ -70,8 +70,9 @@ Nombre: Excursion Generica
 Duración: 3 horas
 Lugar Histórico: Monte Generico
 ---------------------
-```
+
 RUTA TIPO PASEO
 Nombre: Lago Generico
 Duración: 4 horas
 Tipo de Embarcación: Barco
+```
