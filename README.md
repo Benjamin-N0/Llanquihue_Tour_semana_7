@@ -33,7 +33,7 @@ Durante la semana anterior, implementaste una jerarquía de clases para represen
     └── ExcursionCultural.java
 
 ├── data/                          # Clase encargda de creacion de rutas
-    └── GestorRutas.java
+    └── GestorServicios.java
 
 ├── service/                       # Clase encargada de procesar la informacion
     └── ServicioDeRutas.java
