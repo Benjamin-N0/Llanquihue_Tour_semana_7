@@ -11,7 +11,7 @@ import model.ServicioTuristico;
  * Genera una colección de servicios turísticos con distintos tipos de
  * rutas para demostrar el uso de herencia y polimorfismo.
  */
-public class GestorRutas {
+public class GestorServicios {
     
 /**
 * Generamos una lista de servicios turísticos con información de prueba.

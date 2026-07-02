@@ -1,7 +1,7 @@
 package ui;
 import java.util.ArrayList;
 import model.ServicioTuristico;
-import data.GestorRutas;
+import data.GestorServicios;
 import service.ServicioDeRutas;
 
 /**
@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
         
         //Crea el gestor encargado de generar las rutas.
-        GestorRutas gestor = new GestorRutas();
+        GestorServicios gestor = new GestorServicios();
         
          //Crea el servicio encargado de mostrar las rutas.
         ServicioDeRutas servicio = new ServicioDeRutas();
