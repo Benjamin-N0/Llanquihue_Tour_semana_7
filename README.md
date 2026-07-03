@@ -27,7 +27,7 @@ Durante la semana anterior, implementaste una jerarquía de clases para represen
     └── Main.java
 
 ├── model/                         # Clases de dominio
-    └──ServicioTuristico.java
+    └── ServicioTuristico.java
     └── RutaGastronomica.java
     └── PaseoLacustre.java
     └── ExcursionCultural.java
